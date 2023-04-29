@@ -1,0 +1,11 @@
+/* To learn more about this file see: https://angular.io/config/tsconfig. */
+{
+   "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "noImplicitAny": true,
+      "esModuleInterop": true,
+      "strictPropertyInitialization": true,
+      "strictNullChecks": true,
+      "resolveJsonModule": true
+   }
+}

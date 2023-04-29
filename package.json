@@ -1,0 +1,22 @@
+{
+  "name": "angular-best-practice",
+  "version": "1.0.0",
+  "description": "Collection usw.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btxtiger/angular-best-practice.git"
+  },
+  "keywords": [
+    "Angular",
+    "best-practice"
+  ],
+  "author": "Jonas Gnioui <btxtiger@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btxtiger/angular-best-practice/issues"
+  },
+  "homepage": "https://github.com/btxtiger/angular-best-practice#readme"
+}
