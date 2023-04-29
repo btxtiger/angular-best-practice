@@ -3,7 +3,7 @@
 ## Creating Angular Libraries
 
 - First create the DEMO project
-   - `ng new my-lib-demo --routing true --style scss` && `cd my-lib-demo`
+   - `ng new my-lib-demo --routing true --style scss && cd my-lib-demo`
 - Create the library
    - `ng generate library my-lib`
 
