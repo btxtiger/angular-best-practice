@@ -15,8 +15,9 @@ ng add @angular/material
 ng add @angular-eslint/schematics
 ng add @ngx-pwa/local-storage
 
-npm i -S normalize.css ngx-md-icon @mdi/js mat-icon-button-sizes moment-mini@github:ksloan/moment-mini \
-lodash-es change-case-all await-to-js ngx-modern-alerts
+npm i -S normalize.css ngx-md-icon @mdi/js mat-icon-button-sizes \
+moment-mini@github:ksloan/moment-mini lodash-es change-case-all \
+await-to-js ngx-modern-alerts
 ```
 
 ## eslint plugins
