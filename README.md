@@ -8,6 +8,13 @@
 - Create the library
    - `ng generate library my-lib`
 
+## Code style
+- Create separate directories for modules and elements in src/app
+- Routable components should NOT be standalone, but reusable ui-elements should be
+- Use change-detector-strategy onPush
+- Use self-closing tags
+- Use view encapsulation None, create a wrapper using `@HostBinding() class = 'app-demo-component'`
+
 ## Add basic packages
 
 ```sh
@@ -37,7 +44,7 @@ npm i -D prettier prettier-plugin-organize-imports prettier-plugin-packagejson
 ```
 
 ## Git protect main branch
-
+Copy `hooks` directory to your project<br>
 Add the following to your `package.json`
 
 ```json
