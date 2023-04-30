@@ -1,4 +1,5 @@
 # angular-best-practice
+Collection of best practice patterns for scalable Angular apps.
 
 ## Creating Angular Libraries
 
