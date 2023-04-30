@@ -9,7 +9,7 @@ Collection of best practice patterns for scalable Angular apps.
    - `ng generate library my-lib`
 
 ## Code style
-- Create separate directories for modules and elements in src/app
+- Create separate directories for (routable) modules and (ui) elements in src/app
 - Routable components should NOT be standalone, but reusable ui-elements should be
 - Use change-detector-strategy onPush
 - Use self-closing tags
